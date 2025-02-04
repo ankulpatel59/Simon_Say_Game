@@ -1,1 +1,1 @@
-# Simon_Say_Game
+This project is developed by using HTMl, CSS & JavaScript.
